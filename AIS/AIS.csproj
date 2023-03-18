@@ -177,6 +177,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Img\12.jpg" />
     <Content Include="Img\1c67cf16-7d42-49bc-8433-38e384d190d9.jpg" />
     <Content Include="Img\2224c0ab-4ffa-4652-b1f1-d692ca241042.jpg" />
     <Content Include="Img\2693eb0c-5a4e-4b01-93a0-6870108d9145.jpg" />
@@ -186,6 +187,7 @@
     <Content Include="Img\82d92971-b20d-469d-8c2b-d13346c08a15.jpg" />
     <Content Include="Img\ccd94090-9735-4159-b2fd-4acf8c0c9eb8.jpg" />
     <Content Include="Img\dad206a7-4fa7-4c6f-8a1a-8a837f5aa851.jpg" />
+    <Content Include="Img\w.jpg" />
     <Content Include="Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Model1.Context.cs</LastGenOutput>
