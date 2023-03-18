@@ -26,7 +26,7 @@ namespace AIS.Controllers
                                  select d).FirstOrDefault();
                     if (oUser == null)
                     {
-                        ViewBag.Error = "Usuario o cantraseña Invalida";
+                        
                         return View();
                     }
                     Session["User"] = oUser;
